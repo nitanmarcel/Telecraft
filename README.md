@@ -1,6 +1,6 @@
 # Telecraft
 
-Send and recieve messages from any python groups in Minecraft!
+Send and recieve messages from any Telegram groups in Minecraft!
 
 
 ## Requirements
@@ -8,7 +8,7 @@ Send and recieve messages from any python groups in Minecraft!
 * `CraftBukkit` - https://getbukkit.org/download/craftbukkit
 * `RaspberryJuice` - https://www.curseforge.com/minecraft/bukkit-plugins/raspberryjuice
 * `telethon` - install it using pip
-* `mcpi` - install it using telethon
+* `mcpi` - install it using pip
 
 
 ## Environment variables 
@@ -31,4 +31,4 @@ cd Telecraft
 python3 -m telecraft
 ```
 
-* You'll need to start the craftbukkit. You can find the instructions for installing it and the RaspberryJuice plugin you need on google
+* You'll need to start the craftbukkit. You can find the instructions on installing the server and the RaspberryJuice plugin on google
